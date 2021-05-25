@@ -1,4 +1,4 @@
-Ethereum Network Stats "Classic"
+Vapory Network Stats "Classic"
 ============
 Eth-Netstats "Classic" is a visual interface for tracking ethereum network status. It uses WebSockets to receive stats from running nodes and output them through an Angular interface. It is the front-end implementation for [eth-net-intelligence-api](https://github.com/ethereum/eth-net-intelligence-api).
 
